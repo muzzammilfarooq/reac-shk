@@ -1,0 +1,40 @@
+{
+"alerts" :
+[
+    {
+        "id": 1,
+        "title": "Dubai consolidates its position as 'FDI Global City of the Future'",
+        "shortDescription": "The vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, helped the emirate lay solid foundations for its emergence as a preferred regional and global investment destination, said His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "link": "https://www.mediaoffice.ae/en/news/2021/Feb/11-01/Dubai-consolidates-its-position-as-FDI-Global-City-of-the-Future",
+        "image": "https://www.mediaoffice.ae/-/media/2019/june/30-06-2019/hamdan-bin-mohammed-chairs-executive-council-meeting-june-2019.jpg?h=1280&w=1156&hash=A113B0BDE63A066103E034E7137D448D",
+        "dateTime": "11 Feb, 2021",
+        "type": "Alert",
+        "Source": "Financial Times"
+    },
+    {
+        "id": 2,
+        "title": "Dubal Holding's OSE Industries acquisition a major boost for Dubai's industrial sector",
+        "shortDescription": "Dubal Holding's decision to acquire a majority stake in Dubai-based aluminium extrusion company OSE Industries is a major vote of confidence in the UAE economy, according to Dubai Industrial City. The region's largest manufacturing and logistics hub, home to OSE Industries, lauded the deal as a reflection of the growth opportunities and underlying strength in Dubai's industrial sector.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "link": "https://www.mediaoffice.ae/en/news/2021/Feb/13-02/Dubal-Holding-OSE-Industries-acquisition-a-major-boost-for-Dubai-industrial-sector",
+        "image": "https://www.mediaoffice.ae/-/media/2021/feb/13-02/02/wh4-small.jpg?h=1190&w=1679&hash=C9EA2CE70F88A7A97CD838919403C568",
+        "dateTime": "13 Feb, 2021",
+        "type": "Alert",
+        "Source": ""
+
+
+    },
+    {
+        "id": 3,
+        "title": "ADGM enacts its new Data Protection Regulations 2021",
+        "shortDescription": "ADGM conducted an international benchmark of international standards and best practices and believes the European Union's General Data Protection Regulation (which took effect in May 2018) is the leading international standard and best practice for robust Data Protection legislation. The new Regulations are adapted to the needs of ADGM and are intended to be proportionate and business friendly, without undermining the key ambition of achieving a high standard of protection for personal data.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "link": "https://www.wam.ae/en/details/1395302910027",
+        "image": "https://assets.wam.ae/uploads/2020/10/3152147377929609215.jpg",
+        "dateTime": "14 Feb, 2021",
+        "type": "Alert",
+        "Source": "Emirates News Agency"
+    }
+]
+}

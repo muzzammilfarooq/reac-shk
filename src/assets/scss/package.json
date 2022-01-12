@@ -1,0 +1,19 @@
+{
+  "name": "shklaw",
+  "version": "1.0.0",
+  "description": "Use Sass with WordPress, Node Script in SCSS flavour.",
+  "scripts": {
+    "css": "node-sass --output-style compressed --include-path scss style.scss ../css/style.css",
+    "watch": "nodemon -e scss -x \"npm run css\""
+  },
+  "author": "fahad bin saeed",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "nodemon": "^1.18.4"
+  }
+}
